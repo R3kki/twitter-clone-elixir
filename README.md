@@ -1,5 +1,7 @@
 # Twitter Clone
 
+Learning Elixir by building a Twitter Clone
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
